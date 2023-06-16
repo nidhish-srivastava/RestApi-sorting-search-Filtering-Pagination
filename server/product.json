@@ -1,0 +1,602 @@
+[
+    {
+      "price": 30000,
+      "name": "iPhone",
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "price":80000,
+      "name": "iPhone10",
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "price": 90000,
+      "name": "iPhone12",
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "price": 30000,
+      "name": "LED TV",
+      "feature": true,
+      "company": "samsung"
+    },
+    {
+      "price": 2000,
+      "name": "Windows OS",
+      "feature": false,
+      "company": "microsoft"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 35000,
+      "name": "Laptop",
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "price": 2000,
+      "name": "Linux OS",
+      "feature": false,
+      "company": "Linux"
+    }
+]
